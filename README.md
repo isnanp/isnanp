@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isnan Prasetyo</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-<p align="left"> <a href="https://twitter.com/isnan344" target="blank"><img src="https://img.shields.io/twitter/follow/isnan344?logo=twitter&style=for-the-badge" alt="isnan344" /></a> </p>
+<p align="center"> <a href="https://twitter.com/isnan344" target="blank"><img src="https://img.shields.io/twitter/follow/isnan344?logo=twitter&style=for-the-badge" alt="isnan344" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and TypeScript**
-
-- 📫 How to reach me **Isnan344@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1301PZ2G9iy01DqACZpp0v93VS3mdJ7_P/view?usp=drive_link](https://drive.google.com/file/d/1301PZ2G9iy01DqACZpp0v93VS3mdJ7_P/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am Funny**
+<p align="center"> <a href="https://drive.google.com/file/d/1301PZ2G9iy01DqACZpp0v93VS3mdJ7_P/view?usp=drive_link" /> 📄 Know about my experiences </a> </p> 
 
 &nbsp;
 
